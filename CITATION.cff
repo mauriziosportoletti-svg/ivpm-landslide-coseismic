@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and this repository."
+authors:
+  - family-names: "Sportoletti"
+    given-names: "Maurizio"
+title: "iVPM: Closed-form visco-plastic continuum for co-seismic landslide displacement"
+version: 1.0.0
+date-released: 2026-11-23
+url: "https://github.com/mauriziosportoletti-svg/ivpm-landslide-coseismic"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sportoletti"
+      given-names: "Maurizio"
+  title: "A closed-form visco-plastic continuum for the co-seismic response of moving landslides"
+  year: 2026
+  doi: "10.5281/zenodo.23349915"

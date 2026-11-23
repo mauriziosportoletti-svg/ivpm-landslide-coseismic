@@ -1,8 +1,10 @@
 # iVPM: Closed-form visco-plastic continuum for co-seismic landslide displacement
 
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.23349915)
+
 Reference Python implementation of the **iVPM (Inverse Visco-Plastic Model)** described in:
 
-> Sportoletti, M. (2026). *A closed-form visco-plastic continuum for the co-seismic response of moving landslides*. Zenodo. https://doi.org
+> Sportoletti, M. (2026). *A closed-form visco-plastic continuum for the co-seismic response of moving landslides*. Zenodo. https://doi.org/10.5281/zenodo.23349915
 
 ## Overview
 `ivpm.py` provides analytical functions to estimate permanent co-seismic displacements (\(D_{\mathrm{iVPM}}\)) for pre-existing moving landslides calibrated directly on pre-seismic creep rates (\(V_c\), e.g., from InSAR monitoring) and slope inclination (\(\alpha\)), without requiring bulk density (\(\rho\)) or sliding thickness (\(S\)) in the operative displacement expression.
